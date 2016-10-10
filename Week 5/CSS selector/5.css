@@ -1,0 +1,29 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+
+h1 {
+	color: white;
+
+}
+body {
+	background: #3F4044;
+	color: #FFFFFF;
+}
+
+p#something {
+	color: red;
+	font-size: x-large;
+
+}
+
+p#new {
+	color: silver;
+	font-size: large;
+}
+
+
+.w5 {
+	background-color: teal;
+	
+}
