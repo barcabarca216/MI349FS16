@@ -22,6 +22,14 @@ p#new {
 	font-size: large;
 }
 
+#nav{
+	text-align: center;
+	list-style-type: none;
+	margin-left: auto;
+	margin-right: auto;}
+
+#nav li{
+	display: inline;}
 
 .w5 {
 	background-color: teal;
