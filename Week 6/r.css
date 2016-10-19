@@ -1,0 +1,23 @@
+section {
+	border: 5px solid;
+	border-radius: 10px;
+
+}
+
+
+body {
+	width: 750px;
+	font-family: Baskerville, 'Baskerville Old Face', 'Hoefler Text', Garamond, 'Times New Roman', serif;
+	margin: 1.5em auto; 
+	background-image: url(22.jpg);
+	border-color: #FFF5E8;
+	color: #FFF5E8;
+	font-size: 25px;
+	border-style: solid;
+	border-width: 25px;
+	padding: 65px;
+	box-shadow: 5px 5px 5px #FFFFFF;
+}
+ul {
+	background: linear-gradient(135deg, orange, brown);
+}	
