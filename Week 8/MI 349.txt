@@ -1,0 +1,30 @@
+There are four/five main contact sections.
+1. Home Page: 
+- Welcome to the site
+- What the site stands for
+- What it wants to achieve
+- Contacting the owner of the site.
+
+2. Newsfeed: These would be article with links to the original website 
+- National news related to the site
+- State news related to the site
+- International news related to the site.
+- Archive a collection of older categorized news articles that would remain on the website.
+
+3. Federal Debt Clock/Information:
+- A personal essay and sharing my beliefs in reform
+- A page consisting of a hypothetical podcast/ digital media 
+- Possible reviews of books or current media.
+
+4. A personal blog where I comment on current events which relate to the news feed. 
+
+5. Forum:*
+- encourage people to explore the site and get involved with the community.
+- Several subforums:
+	Introduce yourself
+	General Discussion
+	Off-topic Discussion
+The sixth, merchandise is being scrapped due to being too ambitious I have to be more realistic with what I want for a student project. 
+I'm not exactly sure for this final project how far we should go, to make it as feature rich as possible or to make it as presentable and smooth as possible. If it is the latter, the forum would also be dropped. 
+To focus on the home page, newsfeed and federal debt and reform information.
+  
